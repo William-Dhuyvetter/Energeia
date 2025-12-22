@@ -12,3 +12,7 @@
 18.07.23,md,31.11,Souf,2
 ---
 22.06.22,md,30.00,Souf,1
+21.12.25,md,31.07,Souf,2
+22.12.25,md,30.00,Souf,1
+Add contents of new or changed files to the index. The "index" (also known as the "staging area") is what you use to prepare the contents of the next commit.
+
