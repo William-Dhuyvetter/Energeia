@@ -1,6 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1766482815.58939 "c:/Users/econo/Desktop/Energeia/Energeia/tips.tex" "tips.pdf" "tips" 1766482816.23036 0
-  "c:/Users/econo/Desktop/Energeia/Energeia/tips.tex" 1766482600 73 7db6292400f60e3eca870c1186777853 ""
+["pdflatex"] 1766498722.27273 "c:/Users/econo/Desktop/Energeia/Energeia/tips.tex" "tips.pdf" "tips" 1766498722.88593 0
+  "c:/Users/econo/Desktop/Energeia/Energeia/tips.tex" 1766498720 209 78414ad099f72b28735e1d98d9ec2859 ""
+  "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1750614041 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1750611392 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1750611392 1288 655e228510b4c2a1abe905c368440826 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1750609227 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1750609227 35752 024fb6c41858982481f6968b5fc26508 ""
   "c:/texlive/2025/texmf-dist/tex/latex/base/article.cls" 1750614544 20144 b966087dda3b194755eb460d32e2ef75 ""
   "c:/texlive/2025/texmf-dist/tex/latex/base/size10.clo" 1750614544 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
@@ -9,8 +13,8 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1750616733 5569470 f263a82cf6bb394f5bc87b63f38b78df ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1750617006 3599487 c70c0ea8b9ac5d6e18981ff8c9e3975f ""
   "c:/texlive/2025/texmf.cnf" 1750616715 713 614551405fc44b98efbf516466e3c909 ""
-  "tips.aux" 1766482816 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "tips.tex" 1766482600 73 7db6292400f60e3eca870c1186777853 ""
+  "tips.aux" 1766498722 127 bcbb15a9f6a87844a2726267ad9b86d1 "pdflatex"
+  "tips.tex" 1766498720 209 78414ad099f72b28735e1d98d9ec2859 ""
   (generated)
   "tips.aux"
   "tips.log"
