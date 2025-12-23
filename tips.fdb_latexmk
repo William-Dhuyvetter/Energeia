@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1766498722.27273 "c:/Users/econo/Desktop/Energeia/Energeia/tips.tex" "tips.pdf" "tips" 1766498722.88593 0
-  "c:/Users/econo/Desktop/Energeia/Energeia/tips.tex" 1766498720 209 78414ad099f72b28735e1d98d9ec2859 ""
+["pdflatex"] 1766498887.28833 "c:/Users/econo/Desktop/Energeia/Energeia/tips.tex" "tips.pdf" "tips" 1766498887.98714 0
+  "c:/Users/econo/Desktop/Energeia/Energeia/tips.tex" 1766498886 213 b8239adf5faae534040d069d51e097dc ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1750614041 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1750611392 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1750611392 1288 655e228510b4c2a1abe905c368440826 ""
@@ -13,8 +13,8 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1750616733 5569470 f263a82cf6bb394f5bc87b63f38b78df ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1750617006 3599487 c70c0ea8b9ac5d6e18981ff8c9e3975f ""
   "c:/texlive/2025/texmf.cnf" 1750616715 713 614551405fc44b98efbf516466e3c909 ""
-  "tips.aux" 1766498722 127 bcbb15a9f6a87844a2726267ad9b86d1 "pdflatex"
-  "tips.tex" 1766498720 209 78414ad099f72b28735e1d98d9ec2859 ""
+  "tips.aux" 1766498887 127 bcbb15a9f6a87844a2726267ad9b86d1 "pdflatex"
+  "tips.tex" 1766498886 213 b8239adf5faae534040d069d51e097dc ""
   (generated)
   "tips.aux"
   "tips.log"
